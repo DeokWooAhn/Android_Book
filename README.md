@@ -3,3 +3,4 @@
 ### [RecyclerView](https://thuglife.tistory.com/13)
 ### [Intent](https://thuglife.tistory.com/14)
 ### [ViewPager2](https://thuglife.tistory.com/18)
+### [Retrofit2](https://thuglife.tistory.com/19)
