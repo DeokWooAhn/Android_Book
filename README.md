@@ -5,3 +5,4 @@
 ### [ViewPager2](https://thuglife.tistory.com/18)
 ### [Retrofit2](https://thuglife.tistory.com/19)
 ### [Fragment](https://thuglife.tistory.com/31)
+### [Bottom Navigation View](https://thuglife.tistory.com/32)
